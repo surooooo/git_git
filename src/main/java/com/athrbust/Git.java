@@ -7,5 +7,7 @@ public class Git {
         IO.println("hot-fix Git");
         IO.println("Bug Git");
         IO.println("Hello Github");
+        IO.println("Hello Github");
+        IO.println("Hello Github");
     }
 }
